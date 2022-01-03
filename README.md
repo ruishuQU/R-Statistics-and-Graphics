@@ -8,7 +8,7 @@
 
 在R中输入步骤：
 
-```
+```R
 install.packages('devtools') #1.在R中安装devtools库
 IRkernel::installspec()  #2.  在R中注册激活R kernel
 ```
@@ -16,4 +16,11 @@ IRkernel::installspec()  #2.  在R中注册激活R kernel
 具体操作：
 
 https://zhuanlan.zhihu.com/p/46799561
+
+
+
+使用的包
+
+```R
+```
 
