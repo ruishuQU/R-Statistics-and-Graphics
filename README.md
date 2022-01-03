@@ -28,7 +28,7 @@ jupyter contrib nbextension install --user
 
 而后找到插件 **Table of Contents (2)** 食用更加方便
 
-![](E:\git\R-Statistics-and-Graphics\figure\image-20220103234706074.png)
+![](https://github.com/ruishuQU/R-Statistics-and-Graphics/blob/main/figure/image-20220103234706074.png)
 
 
 
