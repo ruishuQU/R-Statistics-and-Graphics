@@ -7,6 +7,6 @@
 步骤：
 在R中输入
 ```
-1. install.packages('devtools') #在R中安装devtools库
-2. IRkernel::installspec()  # 在R中注册激活R kernel
+ install.packages('devtools') #1.在R中安装devtools库
+IRkernel::installspec()  #2.  在R中注册激活R kernel
 ```
