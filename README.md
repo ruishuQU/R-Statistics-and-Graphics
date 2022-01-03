@@ -28,7 +28,7 @@ jupyter contrib nbextension install --user
 
 而后找到插件 **Table of Contents (2)** 食用更加方便
 
-![](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220103234706074.png)
+![](E:\git\R-Statistics-and-Graphics\figure\image-20220103234706074.png)
 
 
 
