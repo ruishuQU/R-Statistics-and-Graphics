@@ -30,11 +30,19 @@ jupyter contrib nbextension install --user
 
 ![](https://github.com/ruishuQU/R-Statistics-and-Graphics/blob/main/figure/image-20220103234706074.png)
 
+安装包的命令
+
+```R
+install.packages("")
+```
+
 
 
 使用的包
 
 ```R
+tidyverse
+
 ```
 
 # 计划表
@@ -42,7 +50,7 @@ jupyter contrib nbextension install --user
 | 标题                        | 完成时间 | 完成情况 |
 | :-------------------------- | :------: | :------: |
 | ch01 R入门和获得帮助        | 2022/1/4 |    √     |
-| ch02 基础知识               |          |          |
+| ch02 基础知识               |  2022 /  |          |
 | ch03 R软件导览              |          |          |
 | ch04 输入与输出             |          |          |
 | ch05 数据结构               |          |          |
