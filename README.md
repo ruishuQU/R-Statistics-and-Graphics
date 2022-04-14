@@ -4,6 +4,14 @@
 
 ## English book title 《R Cookbook:Proven Recipes for Data Analysis,Statistics & Graphics》
 
+##  本书自带学习网站
+
+```html
+https://rc2e.com/
+```
+
+
+
 ### 1. 将r进行虚拟化到jupyter notebook中
 
 在R中输入下面命令：
